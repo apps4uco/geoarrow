@@ -1,0 +1,17 @@
+[package]
+name = "geoarrow"
+version = "0.0.0"
+edition = "2021"
+description = "WIP geoarrow reader and writer"
+authors = ["Apps4u_co"]
+#homepage="http://apps4u.co/"
+documentation="https://docs.rs/geoarrow"
+repository="https://github.com/apps4uco/geoarrow"
+keywords = ["geoarrow","arrow","gis","geospatial"]
+categories = ["data-structures","database-implementations","parser-implementations"]
+license = "MIT OR Apache-2.0"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
